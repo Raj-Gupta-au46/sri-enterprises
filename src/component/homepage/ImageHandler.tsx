@@ -5,32 +5,32 @@ const ImageHandler = () => {
     {
       id: 1,
       img: "/service1.webp",
-      text: "Image1",
+      text: "Happy",
     },
     {
       id: 2,
       img: "/service2.webp",
-      text: "Image2",
+      text: "Balancing",
     },
     {
       id: 3,
       img: "/service3.jpg",
-      text: "Image3",
+      text: "Experts",
     },
     {
       id: 4,
       img: "/service4.jpg",
-      text: "Image4",
+      text: "Management",
     },
     {
       id: 5,
       img: "/service5.jpg",
-      text: "Image5",
+      text: "Experience",
     },
     {
       id: 6,
       img: "/service6.jpg",
-      text: "Image6",
+      text: "Innovative",
     },
   ];
 

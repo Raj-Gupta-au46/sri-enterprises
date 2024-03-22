@@ -4,8 +4,12 @@ import { PublicLayout } from "@/layout";
 import {
   About,
   Description,
+  Final,
   HomePage,
   ImageHandler,
+  Pannel,
+  Professional,
+  Work,
 } from "@/component/homepage";
 import Head from "next/head";
 
@@ -22,6 +26,10 @@ export default function Home() {
         <About />
         <Description />
         <ImageHandler />
+        <Pannel />
+        <Professional />
+        <Work />
+        <Final />
       </PublicLayout>
     </>
   );
